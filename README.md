@@ -1,8 +1,3 @@
-# java-3-sem
-pr1 +
-pr2 +
-pr3 -
-pr4 -
-pr5 -
-pr6 -
-pr7 -
+pr 1 +
+pr 2 + 
+pr 3 + (Sha)pe
