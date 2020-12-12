@@ -8,5 +8,5 @@ pr 7 + (Praktika7-main)
 pr 8 + (lab8)
 pr 9 + (lab9)
 pr 10 + (lab10)
-pr 11
+pr 11 +- (????)
 pr 12 + (lab12)
